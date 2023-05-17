@@ -1,2 +1,2 @@
 # OSU-SKINS
-<h1>mis skins</h1>
+<h2>mis skins</h2>
